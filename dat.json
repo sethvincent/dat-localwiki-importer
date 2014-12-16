@@ -1,0 +1,7 @@
+{
+  "name": "dat-localwiki-importer",
+  "description": "grab all the pages from a region of localwiki.org and plop them into dat",
+  "hooks": {
+    "listen": "./importer.js"
+  }
+}
