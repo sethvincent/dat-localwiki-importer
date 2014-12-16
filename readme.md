@@ -7,7 +7,7 @@ Interested in backing up a region of localwiki.org, or exploring/analyzing all t
 - [Install node](http://nodejs.org/download)
 - Clone this repo and cd into it
 - Install dat: `npm i -g dat`
-- Change the region in the region.js file, or leave it as an empty string to download localwiki pages from all regions (which takes a while, because there are about 84,000 pages). Set to `seattle` by default
+- Change the region in the region.js file, or make it an empty string to download localwiki pages from all regions (which takes a while, because there are about 84,000 pages). Set to `seattle` by default
 - `npm install`
 - `dat init`
 - `dat listen`
