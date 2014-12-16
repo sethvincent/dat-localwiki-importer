@@ -9,8 +9,8 @@ Interested in backing up a region of localwiki.org, or exploring/analyzing all t
 - Install dat: 'npm i -g dat'
 - Change the region in the region.js file, or leave it as an empty string to download localwiki pages from all regions (which takes a while, because there are about 84,000 pages). Set to `seattle` by default
 - `npm install`
-- 'dat init'
-- 'dat listen'
+- `dat init`
+- `dat listen`
 
 ## Todo
 
